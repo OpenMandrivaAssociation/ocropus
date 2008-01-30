@@ -15,7 +15,7 @@ License:        Apache
 BuildRequires:	tesseract-devel >= 2.01
 BuildRequires:  png-devel jpeg-devel tiff-devel
 BuildRequires:	aspell-devel
-BuildRequires:	SDL-devel SDL_gfx-devel
+BuildRequires:	SDL-devel SDL_image-devel SDL_gfx-devel
 BuildRequires:	editline-devel
 BuildRequires:	openfst-devel
 BuildRequires:	lua-devel
