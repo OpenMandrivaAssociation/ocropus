@@ -11,6 +11,7 @@ Source0:        %{name}-%{svn}.tar.bz2
 URL:            http://code.google.com/p/ocropus/
 
 Group:          Office
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:        Apache
 BuildRequires:	tesseract-devel >= 2.01
 BuildRequires:  png-devel jpeg-devel tiff-devel
