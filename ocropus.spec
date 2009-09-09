@@ -1,7 +1,7 @@
 %define name    ocropus
 %define version 0.1.1
 %define svn	681
-%define release %mkrel %svn.1
+%define release %mkrel %svn.2
 
 Name:           %{name} 
 Summary:        Pluggable, scripable OCR system
