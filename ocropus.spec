@@ -8,7 +8,7 @@ Summary:        Pluggable, scripable OCR system
 Version:        %{version} 
 Release:        %{release} 
 Source0:        %{name}-%{svn}.tar.bz2
-URL:            http://code.google.com/p/ocropus/
+URL:            https://code.google.com/p/ocropus/
 
 Group:          Office
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
